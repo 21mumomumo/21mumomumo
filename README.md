@@ -1,5 +1,6 @@
 ## Wozza 👋
-Here are some ideas to get you started:
+
+
 - 🔭 I’m currently working on Android Mobile Development.
 - 🌱 I’m currently learning Jetpack Compose.
 - 💬 Ask me about Mobile Development and Rugby.
