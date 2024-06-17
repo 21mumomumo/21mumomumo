@@ -1,18 +1,13 @@
 ## Wozza 👋
-
-<!--
-**21mumomumo/21mumomumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-#
 - 🔭 I’m currently working on Android Mobile Development.
 - 🌱 I’m currently learning Jetpack Compose.
 - 💬 Ask me about Mobile Development and Rugby.
 - 📫 How to reach me: 21emmanuelmumo@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love Rugby, MMA and F1.
--->
 
+##About Me
 
 # 💻 Tech Stack:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
