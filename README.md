@@ -1,9 +1,9 @@
 ## Wozza 👋
 
 
-- 🔭 I’m currently working on Android Mobile Development.
-- 🌱 I’m currently learning Jetpack Compose.
-- 💬 Ask me about Mobile Development and Rugby.
+- 🔭 I’m currently working on Software.
+- 🌱 I’m currently learning a bit of everything.
+- 💬 Ask me about Software Development and Rugby.
 - 📫 How to reach me: 21emmanuelmumo@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love Rugby, MMA and F1.
